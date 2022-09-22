@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.cajas{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background: blue;
+}
+
+h1 {
+    text-align: center;
+}
